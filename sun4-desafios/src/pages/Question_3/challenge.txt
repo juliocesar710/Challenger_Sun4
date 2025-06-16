@@ -1,0 +1,19 @@
+function q3TratarDatas(data) {
+  /**
+   * Tratar e converter datas para o formato americano AAAA-MM-DD.
+   * 
+   * Saída esperada: 2022-11-30
+  */
+  return data;
+}
+
+const datasParaTratar = [
+  '30/11/2022',
+  '01 dez 2022', 
+  '25/12/2022', 
+  '31 de dezembro de 2022'
+];
+
+datasParaTratar.forEach(data => {
+  console.log(q3TratarDatas(data));
+});

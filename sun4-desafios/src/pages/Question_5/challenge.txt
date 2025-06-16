@@ -1,0 +1,12 @@
+function q5CriarLandingPage() {
+  /**
+   * Crie uma landing page para um produto chamado Jurídico SUN4
+   * Esse produto consiste onde advogados podem contratar automações jurídicas
+   * para acompanhar seus processos.
+   * P.s.: considere que há planos com volume de casos diferentes, ex.: plano I (5000 processos), plano II (10000 processos), etc.
+   * 
+   * Atente-se a adição de chamadas, preço, descrição, formulário de contato, etc.
+   * 
+   * Diferencial: utilize tailwind css para estilizar o layout
+  */
+}
