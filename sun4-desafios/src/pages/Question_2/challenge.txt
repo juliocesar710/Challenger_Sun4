@@ -1,0 +1,11 @@
+function q2ContarFrequenciaPalavra(text) {
+  /**
+   * Realiza uma contagem de quantas vezes uma determinada palavra ocorre.
+   * Ao final, preferencialmente, ordenar o objeto pelo volume de ocorrência.
+   * 
+   * Saída esperada: { 'hello': 2, 'world': 1 }
+  */
+  return {};
+}
+
+console.log(q2ContarFrequenciaPalavra("Hello world hello"));
