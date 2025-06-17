@@ -1,0 +1,10 @@
+function q4CriarEstruturaHtmlCss() {
+  /**
+   * Crie uma estrutura básica de layout utilizando `display: flex` para criar um grid responsivo com 3 colunas.
+   * 
+   * - A estrutura deve conter um cabeçalho, uma área de conteúdo principal com 3 colunas e um rodapé.
+   * - Cada coluna deve conter um texto ou um número que indique sua posição (ex: "Coluna 1").
+   * - A estrutura deve ser responsiva, onde em telas menores as 3 colunas devem se empilhar verticalmente.
+   * - **Diferencial:** Utilize Tailwind CSS para estilizar o layout.
+ */
+}
