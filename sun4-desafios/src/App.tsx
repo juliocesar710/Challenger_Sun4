@@ -5,6 +5,7 @@ import Q3Page from "./pages/Question_3/Q3Page";
 import Q4Page from "./pages/Question_4/Q4Page";
 import Q5Page from "./pages/Question_5/Q5Page";
 import "./App.css";
+import "./index.css"
 
 function App() {
   return (
@@ -23,7 +24,9 @@ function App() {
         <Route path="/q4" element={<Q4Page />} />
         <Route path="/q5" element={<Q5Page />} />
       </Routes>
+     
     </BrowserRouter>
+    
   );
 }
 
