@@ -11,11 +11,11 @@ function App() {
   return (
     <BrowserRouter>
       <nav style={{ display: "flex", gap: 8 }}>
-        <Link to="/">Q1</Link>
-        <Link to="/q2">Q2</Link>
-        <Link to="/q3">Q3</Link>
-        <Link to="/q4">Q4</Link>
-        <Link to="/q5">Q5</Link>
+        <Link to="/">Duplicates</Link>
+        <Link to="/q2">Count</Link>
+        <Link to="/q3">Dates</Link>
+        <Link to="/q4">Columns</Link>
+        <Link to="/q5">Landipage</Link>
       </nav>
       <Routes>
         <Route path="/" element={<Q1Page />} />
